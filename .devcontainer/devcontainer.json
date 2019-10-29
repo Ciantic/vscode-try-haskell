@@ -1,0 +1,9 @@
+{
+	"name": "Haskell IDE Engine",
+	"dockerFile": "Dockerfile",
+	"appPort": 9000,
+	"extensions": [
+		"alanz.vscode-hie-server",
+		"jcanero.hoogle-vscode"
+	]
+}
